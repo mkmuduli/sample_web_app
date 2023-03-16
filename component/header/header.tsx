@@ -11,7 +11,7 @@ const Header = (): JSX.Element => {
         <header className={style.headerContainer} >
             <Image className={style.headerLogo} loader={myLoader}
                 src={"/premium/png-512-thumb/directions-5765346-4822225.png"}
-                alt="venue"
+                alt="venue logo"
                 height={40}
                 width={40}
                 priority />
